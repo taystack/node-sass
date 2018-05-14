@@ -1,3 +1,5 @@
+# This is a fork of the `node-sass` project. There are security vulnerabilities in `node-sass` that cannot be officially fixed until they drop support for `node < v6`. Until then, I have forked the repo and fixed the security issues.
+
 # node-sass
 
 #### Supported Node.js versions vary by release, please consult the [releases page](https://github.com/sass/node-sass/releases)
